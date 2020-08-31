@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tommaso Scalici and I'm a software developer. I'm from Italy, currently living in Palermo and studying Computer Science at University.<br />
+My name is Salvatore Apicella and I'm a software developer. I'm from Italy, currently living in Palermo and studying Computer Science at University.<br />
 C# is my favorite language and Xamarin is my way to go for desktop/mobile/web cross-platform development.<br />
 You can also find me on [LinkedIn](https://www.linkedin.com) for job offers, checking my CV or just to get in touch! :)<br />
 
