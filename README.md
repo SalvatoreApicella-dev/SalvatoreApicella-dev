@@ -3,8 +3,9 @@
 My name is Salvatore Apicella and I'm a software developer. I'm from Italy, currently living in Palermo and studying Computer Science at University.<br />
 C# is my favorite language and Xamarin is my way to go for desktop/mobile/web cross-platform development.<br />
 You can also find me on [LinkedIn](https://www.linkedin.com) for job offers, checking my CV or just to get in touch! :)<br />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img align="right" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width:100%;">
 
-### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=007ec6)
